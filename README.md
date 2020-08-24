@@ -1,5 +1,5 @@
 # Latex-Resume
-Latex Resume Class
+Traditional Resume Latex Document Class
 
 # Documentation
 ## Heading
