@@ -45,7 +45,7 @@ They act the same as their parent command, but their second arugment is place on
 ## Bulleted Commands
 `\bulletedsubsection` and `\bulletedsubsubsection` have been added.
 
-They take in a single list. Each element of this list will be placed in an bulleted list.
+They take in a single list. Each element of this list will be placed as an item in a bulleted list
 
 Sample Usage:
 
